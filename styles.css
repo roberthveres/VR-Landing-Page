@@ -1,0 +1,180 @@
+/* -----Deafults ------*/
+* {
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-style: normal;
+    color: #22343D;
+}
+
+.nav {
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.content-container {
+    max-width: 1120px;
+	margin: 0 auto;
+	padding: 0 20px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.row-centered {
+    align-items: center;
+}
+
+
+/* --------------------- */
+
+
+/* --------nav-bar------- */
+
+.nav-bar-wrepper {
+    width: 100%;
+    justify-content: space-between;
+}
+.nav-links-container > a {
+    
+    font-size: 1em;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 0 10px;
+}
+.nav-links-container :first-child {
+    font-weight: 600;
+}
+
+.nav-buttons-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#app-logo {
+    height: 40px;
+    margin-right: 16px;
+}
+
+.logo-container {
+
+}
+
+#app-title {
+    font-weight: 600;
+    font-size: 1.88em;
+}
+
+.primaty-button {
+    width: auto;
+    height: 43px;
+    border-radius: 4px;
+    background: #02897A;
+    color: #FFF;
+    font-size: 1em;
+    font-weight: 600;
+    border: none;
+    line-height: 24px;
+    cursor: pointer;
+    padding: 0 25px;
+    white-space: pre;
+}
+.primaty-button:hover {
+    background-color: rgba(2, 137, 122, 0.8);
+}
+ .button-outlined {
+    background-color: #FFF;
+    color: #22343D;
+    border: 1px solid #BCD0E5;
+ }
+ .button-outlined:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+ }
+.buttons-nav {
+    margin: 012px;
+}
+.switcher-button {
+    width: 24px;
+    height: 24px;
+    border-radius: 50px;
+    background-color: #FFF;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* --------------------- */
+
+/* ---------Sections------ */
+.main-header {
+  
+    font-size: 2.5em;
+    font-weight: 700;
+    line-height: 60px;
+    width: 518px;
+}
+
+.container-left , .container-right {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+     
+}
+
+.subtitle {
+    line-height: 28px;
+    margin-bottom: 45px;
+}
+
+/* -------link-buttons-------- */
+.button-link {
+   background-color: transparent;
+   color: #02897A;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.button-link:hover {
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+#play-icon {
+    margin-right: 9px;
+}
+
+.play-button-text {
+    color: #02897A;
+}
+
+/* -------------------------- */
+
+#menu-icon {
+    width: 28px;
+    min-height: 31px;
+}
+.menu-icon-class {
+    display: none;
+}
+/*----------------------------*/
+
+
+/* ----------@media---------- */
+
+@media screen and (max-width: 946px) {
+    .menu-icon-class {
+        display: flex;
+    }
+}
+
+/* -------------------------- */

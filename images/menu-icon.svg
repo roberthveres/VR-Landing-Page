@@ -1,0 +1,28 @@
+<svg width="28" height="31" viewBox="0 0 28 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="28" height="31" fill="#E5E5E5"/>
+<g id="Google Pixel 2 XL - 1" clip-path="url(#clip0_0_1)">
+<rect width="411" height="11345" transform="translate(-356 -19)" fill="white"/>
+<g id="Frame 1" filter="url(#filter0_d_0_1)">
+<rect width="411" height="70" transform="translate(-356 -19)" fill="white"/>
+<g id="menu">
+<path id="Vector" d="M3.5 15.5H24.5" stroke="#173A56" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M3.5 7.75H24.5" stroke="#173A56" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M3.5 23.25H24.5" stroke="#173A56" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-364" y="-29" width="427" height="86" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="411" height="11345" fill="white" transform="translate(-356 -19)"/>
+</clipPath>
+</defs>
+</svg>
